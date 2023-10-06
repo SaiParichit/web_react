@@ -9,6 +9,10 @@ export default function Marketing(){
         <li> <input type="radio" name="gender" class = "answer" for="ans2" id="option2" /> Answer Option</li>
         <li> <input type="radio" name="gender" class = "answer" for="ans3" id="option3" /> Answer Option</li>
         <li> <input type="radio" name="gender" class = "answer" for="ans4" id="option4" /> Answer Option</li>
+        <li? <input type = "radio" name = "gender" class = "answer" for= "ans4" id = "option4" /> Answer Option/</li>
+        <h1> Submit your answer below </h1>
+        
+        
         <button id= "submit">Submit</button>
       </div>
       
